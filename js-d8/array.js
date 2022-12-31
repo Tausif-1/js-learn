@@ -41,6 +41,6 @@ console.log(Fruits);
 let num = [1 , 3 , 4.56,];
 let obj = {} // it is object literals
 
-console.log(Array.isArray(num));
-console.log(Array.isArray(obj));
+console.log(Array.isArray(num)); // it prints true because it is a array.
+console.log(Array.isArray(obj)); // it prints false because it is not a array.
 
